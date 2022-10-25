@@ -32,29 +32,43 @@ quanti posti ci sono? 5
 
 
 
-
+credo cosi è ok.
 
 quanti posti ci sono? 5 
     i posti sono maggiori di 2?
         si - è apparecchiato?
-            si - acqua , posate e cibo sono a tavola
+            si - i posti sono maggiori di 4?
+                si - è apparecchiato?
+                    si - i posti sono maggiori di 6?
+                        si - è apparecchiato?
+                            si - completato
+                            no - c'è l'acqua?
+                                si - ci sono le posate?
+                                     si - c'è il cibo?
+                                        si - è apparecchiato.
+                                        no - porta il cibo.
+                                    no - porta le posate.
+                                no - porta l'acqua.
+                        no - i posti diventano: 6
+                    no - c'è l'acqua?
+                        si - ci sono le posate?
+                            si - c'è il cibo?
+                                si - è apparecchiato.
+                                no - porta il cibo.
+                            no - porta le posate.
+                        no - porta l'acqua.
+                no - i posti diventano: 6
             no - c'è l'acqua?
                 si - ci sono le posate?
                     si - c'è il cibo?
-                        si - i posti sono maggiori di 4?
-                            si - è apparecchiato?
-                                si - acqua , posate e cibo sono a tavola
-                            no - c'è l'acqua?
-                                si - ci sono le posate?
-                                    si - c'è il cibo?
-                                        
-                            
+                        si - è apparecchiato.
                         no - porta il cibo.
                     no - porta le posate.
-             no - porta l'acqua.
+                no - porta l'acqua.
         no - i posti diventano: 6
-                        no - porta il cibo.
-                    no - porta le posate.
-             no - porta l'acqua.
-        no - i posti diventano: 6
+
+
+
+
+
 
