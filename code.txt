@@ -1,0 +1,9 @@
+quanti posti ci sono? 5 
+
+i posti sono maggiori di 2?
+    si - ci sono 4 posti?
+        si - ci sono 6 posti? 
+            si - ci sono i posti per tutti, spegniti.
+            no - i posti diventano: 6
+        no - i posti diventano: 6
+    no - i posti diventano: 6
