@@ -1,8 +1,7 @@
 quanti posti ci sono? 5 
-
-    i posti apparecchiati sono maggiori di 2?
-        si - i posti apparecchiati sono maggiori di 4 apparecchiati?
-            si - i posti apparecchiati sono maggiori di 6 apparecchiati? 
+    i posti sono maggiori di 2?
+        si - i posti sono maggiori di 4?
+            si - i posti sono maggiori di 6? 
                 si - ci sono i posti per tutti, spegniti.
                 no - i posti diventano: 6
             no - i posti diventano: 6
@@ -20,4 +19,42 @@ quanti posti ci sono? 5
 
 
 
+
+quanti posti ci sono? 5 
+    i posti sono maggiori di 2?
+        si - i posti sono maggiori di 4?
+            si - i posti sono maggiori di 6? 
+                si - ci sono i posti per tutti, spegniti.
+                no - i posti diventano: 6
+            no - i posti diventano: 6
+        no - i posti diventano: 6
+
+
+
+
+
+
+quanti posti ci sono? 5 
+    i posti sono maggiori di 2?
+        si - è apparecchiato?
+            si - acqua , posate e cibo sono a tavola
+            no - c'è l'acqua?
+                si - ci sono le posate?
+                    si - c'è il cibo?
+                        si - i posti sono maggiori di 4?
+                            si - è apparecchiato?
+                                si - acqua , posate e cibo sono a tavola
+                            no - c'è l'acqua?
+                                si - ci sono le posate?
+                                    si - c'è il cibo?
+                                        
+                            
+                        no - porta il cibo.
+                    no - porta le posate.
+             no - porta l'acqua.
+        no - i posti diventano: 6
+                        no - porta il cibo.
+                    no - porta le posate.
+             no - porta l'acqua.
+        no - i posti diventano: 6
 
